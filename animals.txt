@@ -4,3 +4,4 @@ lion
 rabbit
 cat
 dog
+panda
