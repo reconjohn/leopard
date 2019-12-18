@@ -1,4 +1,5 @@
 leopard
 tiger
 lion
+rabbit
 cat
